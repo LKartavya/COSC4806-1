@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1> Login form</h1>
-      <form action="valitdate.php" method-"post"> 
+      <form action="validate.php" method-"post"> 
       <label for ="username">Username:</label> <br>
       <input type="text" id="username" name="username">
       <br>
